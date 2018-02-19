@@ -1,6 +1,32 @@
+/* GENERAL SETTINGS */
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: url("assets/freedom.jpg") no-repeat center center fixed;
   background-size: cover;
+}
+
+/* QUOTE */
+
+.wrapper {
+  text-align: center;
+  margin: 10rem auto;
+  line-height: 1.5rem;
+  padding: 0 1rem;
+}
+
+.quote {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.author {
+  font-family: 'Bellefair', serif;
+  font-style: italic;
 }
 
 /* FOOTER */

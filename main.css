@@ -1,0 +1,12 @@
+body {
+  background: url("assets/freedom.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* FOOTER */
+
+footer {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+}
